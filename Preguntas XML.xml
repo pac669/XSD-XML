@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question id='1'>
+        <type>text</type>
+        <title>¿Qué hay peor que encontrar un gusano en tu manzana?</title>
+        <answer>Encontrar medio gusano</answer>
+    </question>
+    <question id='2'>
+        <type>text</type>
+        <title>Como se le llama a un boomerang que no vuelve? </title>
+        <answer>Palo</answer>
+    </question>
+        <question id='3'>
+        <type>select</type>
+        <title>Por que los peces no van a la escuela?</title>
+        <option>Porque no quieren.</option>
+        <option>El idioma pez es muy complejo.</option>
+        <option>Porque la marea esta baja.</option>
+        <option>Porque se le mojan los libros.</option>
+        <answer>3</answer>
+    </question>
+    <question id='4'>
+        <type>select</type>
+        <title>Por que el perro mueve la cola?</title>
+        <option>Porque la cola no puede mover al perro.</option>
+        <option>Porque quiere hablar.</option>
+        <option>Porque no sabe guiñar un ojo.</option>
+        <option>No la mueve, es la gravedad.</option>
+        <answer>0</answer>
+    </question>
+    <question id='5'>
+        <type>label</type>
+        <title>Que significa HTML?</title>
+        <option>Hiperactividad de Transeuntes de un Municipio Lunar.</option>
+        <option>Hyper Text Mark Language.</option>
+        <option>¿Hola Te Llamas Laura?</option>
+        <option>Hijos Tarados Mocosos Lerdos</option>
+        <answer>1</answer>
+    </question>
+    <question id='6'>
+        <type>label</type>
+        <title>Que es una oreja?</title>
+        <option>Un adverbio de cantidad.</option>
+        <option>Un conjunto matematico.</option>
+        <option>Sesenta minutejos.</option>
+        <option>Una enfermedad venérea.</option>
+        <answer>2</answer>
+    </question>
+    <question id='7'>
+        <type>radio</type>
+        <title>Quien dirigio Batman Begins?</title>
+        <option>Christopher Nolan</option>
+        <option>Steven Speilberg</option>
+        <option>James Cameron</option>
+        <option>Michael Jackson</option>
+        <answer>0</answer>
+    </question>
+    <question id='8'>
+        <type>radio</type>
+        <title>Quien escribio 1984?</title>
+        <option>Miguel Cervantes</option>
+        <option>George Orwell</option>
+        <option>Belen Esteban</option>
+        <option>Aldous Huxley</option>
+        <answer>1</answer>
+    </question>
+        <question id='9'>
+        <type>checkbox</type>
+        <title>De los siguientes lenguajes cual es de marcas?</title>
+        <option>Java</option>
+        <option>Python</option>
+        <option>HTML</option>
+        <option>XML</option>
+        <answer>2,3</answer>
+    </question>
+    <question id='10'>
+        <type>checkbox</type>
+        <title>Que paso en el 1945?</title>
+        <option>El fin de la guerra.</option>
+        <option>Nacio Chuck Norris.</option>
+        <option>Pasar al 1946.</option>
+        <option>Se hundio el titanic.</option>
+        <answer>0,2</answer>
+    </question>
+</questions>
